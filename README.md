@@ -33,6 +33,6 @@ Archivo: [EJE1.ClasificacióndeCalificaciones.JS](./EJE1.ClasificacióndeCalific
 
 ## Ejercicio 2: 
 
-Archivo: [EJE2.MenúdeOpcionesdeCajeroAutomático.JS](./EJE2.MenúdeOpcionesdeCajeroAutomático.JS)
+Archivo: [EJE2.MenúdeOpcionesparaCajeroAutomático.js](./EJE2.MenúdeOpcionesparaCajeroAutomático.JS)
 
 Hecho por **Keiry Ventura**
