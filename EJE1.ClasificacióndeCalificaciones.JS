@@ -1,8 +1,7 @@
 // Objetivo: Crear una función que reciba una letra que representa una calificación (A,
 B, C, D, F) y devuelva una descripción del nivel de rendimiento, usando la sentencia
 switch.
-// Instrucciones: Crea una función llamada clasificarCalificacion(calificacion) que reciba un string
-con la letra de la calificación.
+// Instrucciones: Crea una función llamada clasificarCalificacion(calificacion) que reciba un string con la letra de la calificación.
 // Utiliza un switch para determinar la descripción:
  * A: “Excelente rendimiento”
  * B: “Buen rendimiento”
